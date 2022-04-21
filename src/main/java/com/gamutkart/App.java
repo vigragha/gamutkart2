@@ -6,9 +6,9 @@ public class App
     {
 		int i;
 
-		for(i=0;i<=1000;i++)
+		for(i=0;i<=2000;i++)
 		{
-			i += 5;
+			i += 10;
    		}
 	 }
 }
